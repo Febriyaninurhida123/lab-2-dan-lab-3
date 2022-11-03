@@ -1,6 +1,8 @@
 # Lab 2 dan Lab 3
 Nama    : Febriyani Nurhida
+
 NIM     : 312210222
+
 Kelas   : TI.22.A.2
 
 # KONDISI DAN PERULANGAN
