@@ -118,10 +118,15 @@ Program yang telah kita buat seperti pada gambar diatas jika kita coba untuk run
 berikut langkah-langkah untuk menampilkan bilangan acak yang lebih kecil dari 0.5
 
 1.Mulai
+
 2.Tampilkan n bilangan acak yang lebih kecil dari 0.5
+
 3.Nilai n diisi pada saat runtime
+
 4.Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya.
+
 5.Gunakan fungsi random() yang dapat diimport terlebih dahulu.
+
 6.Selesai
 
 ![gambar6](ss4/ss8.png)
