@@ -186,7 +186,7 @@ Berikut ini kira-kira implementasi logikanya:
 
 ![gambar12](ss4/ss15.png)
 
-Sekarang coba kita testing, saya coba masukkan angka 2, 3, dan 4:
+Sekarang coba kita testing, saya coba masukkan angka 6, 4, dan 8:
 
 ![gambar13](ss4/ss16.png)
 
