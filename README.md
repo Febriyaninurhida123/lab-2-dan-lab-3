@@ -279,6 +279,8 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
 ### program 1 :
 #### Flowchart pemrograman 1
 
+berikut saya tampilkan flowchart dari program 1 :
+
 ![gambar21](ss4/ss13.png)
 
 #### ALGORITMA menghitung keuntungan selama 8 bulan berjalannya usaha.
